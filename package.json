@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@datorama/akita": "^4.10.8",
+    "@datorama/akita": "^7.1.1",
     "core-js": "^3.1.2",
     "element-ui": "^2.13.0",
     "lodash": "^4.17.21",
